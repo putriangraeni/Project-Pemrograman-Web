@@ -1,6 +1,6 @@
-𝗪𝗘𝗕𝗦𝗜𝗧𝗘 𝗡𝗔𝗧𝗜𝗭𝗘𝗡 𝗞𝗔𝗠𝗣𝗨𝗦
+# Website Natizen Kampus
 
-Project Final Semester 3 Mata Kuliah Pemrograman Web
+## Project Final Semester 3 Mata Kuliah Pemrograman Web
 - Website Natizen Kampus adalah wadah untuk menampung keluh kesah, pendapat, serta saran dan kritikan dari mahasiswa mengenai Universitas Negeri Makassar, agar dapat dijadikan motivasi dan dorongan untuk pengembangan Universitas.
 - Ketua Kelompok 5 anggota tim
 - Website dibangun menggunakan HTML, CSS, Java Script, PHP dan database MySQL.
